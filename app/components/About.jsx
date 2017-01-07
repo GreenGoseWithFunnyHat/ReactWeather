@@ -3,7 +3,7 @@ var React = require('react');
 var About = (props) => {
     return (
         <div>
-            <h1 className="text-center">
+            <h1 className="text-center page-title">
                 <a href="https://facebook.github.io/react">React </a>
                 <p>Weather App</p>
             </h1>
